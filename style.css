@@ -23,7 +23,7 @@
 header p{
 	text-align: center;
 	header-image: url(images/gitxaalainlet.jpg);
-	header,	section,	footer
+	header, section, footer
 		padding: 10px;
 		border-bottom: 10px Solid ;
 	}
