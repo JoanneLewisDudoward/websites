@@ -1,0 +1,94 @@
+
+
+*{
+	font-size: 100%;
+	/* border: 1px solid red; */
+	margin: 0;
+	line-height: 1;
+	box-sizing: border-box;
+}
+
+.banner {
+	height: 300px;
+	background-image: url(images/gitxaalainlet.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.title {
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+header p{
+	text-align: center;
+	header-image: url(images/gitxaalainlet.jpg);
+	header,	section,	footer
+		padding: 10px;
+		border-bottom: 10px Solid ;
+	}
+
+body {
+	background-image: url(images/.jpg);
+	background-repeat: repeat;
+	background-color: Green;
+	font-size: 14px;
+}
+
+h1 {
+		text-align: center;
+		background-color: yellow;
+		font-family:'Domine', serif;
+		font-size: 100px;
+}
+h2 {
+	text-align: center;
+	font-size: 40px;
+}
+
+h3,h4,h5,h6 {
+	text-align: center;
+	background-color: green;
+	font-family:'Domine', serif;
+	font-size: 30px;
+}
+
+p {
+	text-align: left;
+	line-height: 1;
+	margin: 15px 0;
+}
+
+ol,ul {
+	line-height: 2;
+	margin: 15px
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1,h2,h3,h4,h5,h6 {
+		margin-bottom: 20px;
+}
+
+section {
+	border: 20px solid Yellow;
+	background-color: Green;
+	margin: 30px;
+	padding: 30px;
+}
+
+li {
+	list-style-type: none;
+}
+
+.container {
+	max-width: 1000px;
+	margin:0 auto;
+}
