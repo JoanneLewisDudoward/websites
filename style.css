@@ -37,9 +37,10 @@ body {
 
 h1 {
 		text-align: center;
-		background-color: yellow;
+		background-color: limegreen;
 		font-family:'Domine', serif;
 		font-size: 100px;
+		font: yellow;
 }
 h2 {
 	text-align: center;
@@ -54,7 +55,7 @@ h3,h4,h5,h6 {
 }
 
 p {
-	text-align: left;
+	text-align: center;
 	line-height: 1;
 	margin: 15px 0;
 }
