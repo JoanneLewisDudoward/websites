@@ -20,6 +20,10 @@
 	text-decoration: underline;
 }
 
+li {
+	font-size: 200%;
+	text-align: center;
+}
 header p{
 	text-align: center;
 	header-image: url(images/gitxaalainlet.jpg);
@@ -40,7 +44,7 @@ h1 {
 		background-color: limegreen;
 		font-family:'Domine', serif;
 		font-size: 100px;
-		font: yellow;
+		color: yellow;
 }
 h2 {
 	text-align: center;
@@ -51,7 +55,7 @@ h3,h4,h5,h6 {
 	text-align: center;
 	background-color: green;
 	font-family:'Domine', serif;
-	font-size: 300%;
+	font-size: 100%;
 }
 
 p {
@@ -92,4 +96,17 @@ li {
 .container {
 	max-width: 1000px;
 	margin:0 auto;
+}
+
+.float-image {
+	float:center;
+}
+.column {
+	float:left
+}
+.column-1 {
+	width:30%;
+}
+.column-2 {
+	width:70%;
 }
